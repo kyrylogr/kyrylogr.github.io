@@ -1,1 +1,1 @@
-# Kyrylo Gryshko BIO
+# Kyrylo Gryshko
