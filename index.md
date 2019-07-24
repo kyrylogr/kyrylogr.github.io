@@ -13,7 +13,7 @@ Engineer's degree, diploma with honors
 ## Languages
 Ukrainian, Russian, English (fluent), Spanish (basic level)
 
-## Short BIO
+## Short bio
 I have relevant education, experience and passion in the area of software development.  
 I have been developing software professionally for more than 15 years, mainly using C++, Oracle, CORBA. 
 Most of the experience is related to banking software. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript).  
