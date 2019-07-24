@@ -16,7 +16,7 @@ Ukrainian, Russian, English (fluent), Spanish (basic level)
 ## Short BIO
 I have relevant education, experience and passion in the area of software development.  
 I have been developing software professionally for more than 15 years, mainly using C++, Oracle, CORBA. 
-Most of the experience is related to banking software. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript) as freelance projects.  
+Most of the experience is related to banking software. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript).  
 I try to improve my skills by reading, watching related videos, taking online courses.
 
 ## Programming languages and technologies
@@ -54,10 +54,10 @@ I had the following roles:
 * project manager in some banking software migrations
 * business analyst (gathering requirements and use cases from customers)
  
-Some freelance projects: Windows desktop GUI, calculation models (trading, forecasting), migrations and consulting in the area of CORBA, google apps script projects.
+Some other projects: Windows desktop GUI, calculation models (trading, forecasting), migrations and consulting in the area of CORBA, google apps script projects.
 
 ## Work achievements and work sample description
-* I played big role in development of successful core banking system, currently used by several Ukrainian banks
+* I took part in development of successful core banking system, currently used by several Ukrainian banks
 * reusable UI components (C++ Builder, windows)
 * server business logic (credit risks assessments) (C++)
 * Writing Oracle PL/SQL packages, stored procedures
