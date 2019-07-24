@@ -77,3 +77,4 @@ Some freelance projects: Windows desktop GUI, calculation models (trading, forec
 
 # Other links
 [linkedin profile](https://www.linkedin.com/in/kyrylo-gryshko-552738117/)
+[online resume](https://kyrylogr.github.io/)
