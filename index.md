@@ -1,30 +1,23 @@
 # Kyrylo Gryshko, Software engineer (C++, desktop / server  applications)
 
 ## Personal information
-Kyrylo Gryshko
-
-Born 1978, Ukraine
-
-Currently I live in Kyiv, Ukraine
+Kyrylo Gryshko  
+Born 1978, Ukraine  
+Currently I live in Kyiv, Ukraine  
 
 ## Education
-1995-2001
-
-National Technical University of Ukraine 'Kyiv Polytechnic Institute'
-
-Applied Mathematics Department
-
-Engineer's degree, diploma with honors
+1995-2001  
+National Technical University of Ukraine 'Kyiv Polytechnic Institute'  
+Applied Mathematics Department  
+Engineer's degree, diploma with honors  
 
 ## Languages
 Ukrainian, Russian, English (fluent), Spanish (basic level)
 
 ## Short BIO
-I have relevant education, experience and passion in the area of software development.
-
-I have been developing software professionally for more than 15 years, mainly using C++, Oracle, CORBA.
-Most of the experience is related to banking software. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript) as freelance projects.
-
+I have relevant education, experience and passion in the area of software development.  
+I have been developing software professionally for more than 15 years, mainly using C++, Oracle, CORBA. 
+Most of the experience is related to banking software. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript) as freelance projects.  
 I try to improve my skills by reading, watching related videos, taking online courses.
 
 ## Programming languages and technologies
@@ -56,8 +49,7 @@ conan, cmake, git, windebug, GNU gettext (internationalization)
 
 ## Job history
 
-Private Enterprise "Mebius" (banking systems) 2000 - 2019
-
+Private Enterprise "Mebius" (banking systems) 2000 - 2019  
 I had the following roles: 
 * software developer
 * project manager in some banking software migrations
