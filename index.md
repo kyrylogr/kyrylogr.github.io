@@ -6,8 +6,7 @@ Born 1978, Ukraine
 Currently I live in Kyiv, Ukraine  
 
 ## Education
-1995-2001  
-National Technical University of Ukraine 'Kyiv Polytechnic Institute'  
+1995-2001 National Technical University of Ukraine 'Kyiv Polytechnic Institute'  
 Applied Mathematics Department  
 Engineer's degree, diploma with honors  
 
@@ -21,7 +20,7 @@ Most of the experience is related to banking software. I also did dozen of succe
 I try to improve my skills by reading, watching related videos, taking online courses.
 
 ## Programming languages and technologies
-**Programming languages:**
+**Programming languages:**  
 + C++ (up to C++ 17) 
     + compilers: Microsoft Visual Studio, gcc, clang, C++ Builder
     + platforms: windows, linux
@@ -30,13 +29,13 @@ I try to improve my skills by reading, watching related videos, taking online co
 + SQL, pl/sql (Oracle)
 + Delphi/Pascal
 
-**Some brief knowledge in other languages:**
+**Some brief knowledge in other languages:**  
 python (pandas, numpy, matplotlib), octave (matlab), html, css, javascript, google apps script, java
 
-**Technologies:**
+**Technologies:**  
 CORBA (Visibroker, TAO, Orbix, Java), SOAP, Jupyter
 
-**Databases:**
+**Databases:**  
 + Oracle 
   + pl/sql 
   + schema design 
@@ -44,7 +43,7 @@ CORBA (Visibroker, TAO, Orbix, Java), SOAP, Jupyter
 + Postgres SQL 
 + Microsoft SQL Server
 
-**Other:**
+**Other:**  
 conan, cmake, git, windebug, GNU gettext (internationalization)
 
 ## Job history
@@ -59,7 +58,7 @@ Some freelance projects: Windows desktop GUI, calculation models (trading, forec
 
 ## Work achievements and work sample description
 * I played big role in development of successful core banking system, currently used by several Ukrainian banks
-* reusable UI components (C++)
+* reusable UI components (C++ Builder, windows)
 * server business logic (credit risks assessments) (C++)
 * Writing Oracle PL/SQL packages, stored procedures
 * integration (consuming) SOAP services from C++
