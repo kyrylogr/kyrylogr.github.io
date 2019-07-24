@@ -76,5 +76,5 @@ Some freelance projects: Windows desktop GUI, calculation models (trading, forec
 [python, jupyter, pandas, matplotlib](https://github.com/kyrylogr/ansergy_reports/blob/master/ego/spread_percent_adj/New%20EGO%20application%20features%20august%202018.ipynb)
 
 # Other links
-[linkedin profile](https://www.linkedin.com/in/kyrylo-gryshko-552738117/)
+[linkedin profile](https://www.linkedin.com/in/kyrylo-gryshko-552738117/)  
 [online resume](https://kyrylogr.github.io/)
