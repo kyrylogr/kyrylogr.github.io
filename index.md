@@ -24,7 +24,7 @@ I try to improve my skills by reading, watching related videos, taking online co
 + C++ (up to C++ 17) 
     + compilers: Microsoft Visual Studio, gcc, clang, C++ Builder
     + platforms: windows, linux
-    + libraries: stl, (some parts of) boost, gsoap, curl, catch (testing), VCL, MFC(long long time ago)
+    + libraries: stl, (some parts of) boost, gsoap, curl, catch (testing), VCL, MFC(in students years)
 + tcl
 + SQL, pl/sql (Oracle)
 + Delphi/Pascal
@@ -44,7 +44,7 @@ CORBA (Visibroker, TAO, Orbix, Java), SOAP, Jupyter
 + Microsoft SQL Server
 
 **Other:**  
-conan, cmake, git, windebug, GNU gettext (internationalization)
+conan, cmake, windebug, GNU gettext (internationalization), git, Jira
 
 ## Job history
 
@@ -54,7 +54,7 @@ I had the following roles:
 * project manager in some banking software migrations
 * business analyst (gathering requirements and use cases from customers)
  
-Some other projects: Windows desktop GUI, calculation models (trading, forecasting), migrations and consulting in the area of CORBA, google apps script projects.
+Some other projects: Windows desktop GUI, calculation models (forecasting, trading simulation), migrations and consulting in the area of CORBA, google apps script projects.
 
 ## Work achievements and work sample description
 * I took part in development of successful core banking system, currently used by several Ukrainian banks
@@ -62,10 +62,10 @@ Some other projects: Windows desktop GUI, calculation models (trading, forecasti
 * server business logic (credit risks assessments) (C++)
 * Writing Oracle PL/SQL packages, stored procedures
 * integration (consuming) SOAP services from C++
-* internationalization of projects written in tcl, C++ Builder
-* calculation models for trading and forecasting (C++)
+* calculation models for forecasting and trading simulation (C++)
 * Windows desktop applications: GUI (using C++ Builder), process management, (OLE) Automation
 * successful large legacy codebase migrations to free CORBA implementations (from Visibroker and ORBIX to TAO, C++)
+* internationalization of projects written in tcl, C++ Builder
 
 ## Extra courses / certifications
 
