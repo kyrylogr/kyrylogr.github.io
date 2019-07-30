@@ -30,7 +30,7 @@ I try to improve my skills by reading, watching related videos, taking online co
 + Delphi/Pascal
 
 **Some brief knowledge in other languages:**  
-python (pandas, numpy, matplotlib), octave (matlab), html, css, javascript, google apps script, java
+python (pandas, numpy, matplotlib), octave (matlab), html, css, javascript, google apps script, java, C#
 
 **Technologies:**  
 CORBA (Visibroker, TAO, Orbix, Java), SOAP, Jupyter
@@ -44,7 +44,7 @@ CORBA (Visibroker, TAO, Orbix, Java), SOAP, Jupyter
 + Microsoft SQL Server
 
 **Other:**  
-conan, cmake, windebug, GNU gettext (internationalization), git, Jira
+conan, cmake, windebug (crash dumps), GNU gettext (internationalization), git, Jira
 
 ## Job history
 
@@ -60,12 +60,13 @@ Some other projects: Windows desktop GUI, calculation models (forecasting, tradi
 * I took part in development of successful core banking system, currently used by several Ukrainian banks
 * reusable UI components (C++ Builder, windows)
 * server business logic (credit risks assessments) (C++)
-* Writing Oracle PL/SQL packages, stored procedures
+* Writing Oracle PL/SQL packages, stored procedures, query optimization
 * integration (consuming) SOAP services from C++
 * calculation models for forecasting and trading simulation (C++)
 * Windows desktop applications: GUI (using C++ Builder), process management, (OLE) Automation
 * successful large legacy codebase migrations to free CORBA implementations (from Visibroker and ORBIX to TAO, C++)
 * internationalization of projects written in tcl, C++ Builder
+* crash dump analysis (windebug), memory leak detection, performance profiling
 
 ## Extra courses / certifications
 
