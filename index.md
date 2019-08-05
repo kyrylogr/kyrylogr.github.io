@@ -53,18 +53,19 @@ I had the following roles:
 * software developer
 * project manager in some banking software migrations
 * business analyst (gathering requirements and use cases from customers)
- 
-Some other projects: Windows desktop GUI, calculation models (forecasting, trading simulation), migrations and consulting in the area of CORBA, google apps script projects.
+
+Independent contractor 2015-2019
+I have completed a number of successful projects including: Windows desktop GUI, calculation models (forecasting, trading simulation), migrations and consulting in the area of CORBA, small google apps script projects.
 
 ## Work achievements and work sample description
 * I took part in development of successful core banking system, currently used by several Ukrainian banks
 * reusable UI components (C++ Builder, windows)
-* server business logic (credit risks assessments) (C++)
 * Writing Oracle PL/SQL packages, stored procedures, query optimization
-* integration (consuming) SOAP services from C++
 * calculation models for forecasting and trading simulation (C++)
+* server business logic (credit risks assessments) (C++)
 * Windows desktop applications: GUI (using C++ Builder), process management, (OLE) Automation
 * successful large legacy codebase migrations to free CORBA implementations (from Visibroker and ORBIX to TAO, C++)
+* integration (consuming) SOAP services from C++
 * internationalization of projects written in tcl, C++ Builder
 * crash dump analysis (windebug), memory leak detection, performance profiling
 
