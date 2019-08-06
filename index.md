@@ -22,12 +22,12 @@ I try to improve my skills by reading, watching related videos, taking online co
 ## Programming languages and technologies
 **Programming languages:**  
 + C++ (up to C++ 17) 
-    + compilers: Microsoft Visual Studio, gcc, clang, C++ Builder
+    + compilers: Microsoft Visual Studio, gcc, C++ Builder
     + platforms: windows, linux
     + libraries: stl, (some parts of) boost, gsoap, curl, catch (testing), VCL, MFC(in students years)
 + tcl
-+ SQL, pl/sql (Oracle)
-+ Delphi/Pascal
++ SQL, Oracle pl/sql
++ Delphi
 
 **Some brief knowledge in other languages:**  
 python (pandas, numpy, matplotlib), octave (matlab), html, css, javascript, google apps script, java, C#
@@ -69,7 +69,7 @@ I have completed a number of successful projects including: Windows desktop GUI,
 * internationalization of projects written in tcl, C++ Builder
 * crash dump analysis (windebug), memory leak detection, performance profiling
 
-## Extra courses / certifications
+## Courses / certifications
 
 [Machine Learning, Coursera course by Stanford University, 2018](https://www.coursera.org/account/accomplishments/verify/8ZNMHYSU4UVV)
 
