@@ -40,11 +40,11 @@ CORBA (Visibroker, TAO, Orbix, Java), SOAP, Jupyter
   + pl/sql 
   + schema design 
   + query optimization
-+ Postgres SQL 
++ PostgreSQL 
 + Microsoft SQL Server
 
 **Other:**  
-conan, cmake, windebug (crash dumps), GNU gettext (internationalization), git, Jira
+conan, basic cmake, windebug (crash dumps), GNU gettext (internationalization), git, Jira
 
 ## Job history
 
