@@ -49,16 +49,16 @@ git, cmake, conan, windebug (crash dumps), Azure Devops, GNU gettext (internatio
 
 ## Job history
 
-Private Enterprise "Mebius" (banking systems) 2000 - 2019  
+**Private Enterprise "Mebius" (banking systems) 2000 - 2019**  
 I had the following roles: 
 * software developer
 * project manager in some banking software migrations
 * business analyst (gathering requirements and use cases from customers)
 
-Independent contractor 2015-2019  
+**Independent contractor 2015-2019**  
 I have completed a number of successful projects including: Windows desktop GUI, calculation models (forecasting, trading simulation), migrations and consulting in the area of CORBA, small google apps script projects.
 
-Materialise 2019-present  
+**Materialise 2019-present**  
 I take part in development of medical 3D planning software written in C++/qt. I work on business logic, portions of UI, application performance analysis and improvements, bugfixing. This project is about to have a second release (version 2.0).
 
 ## Work achievements and work sample description
