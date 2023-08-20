@@ -15,7 +15,7 @@ Ukrainian, Russian, English (fluent), Spanish (basic level)
 
 ## Short bio
 I have relevant education, experience and passion in the area of software development.  
-I have been developing software professionally for more than 15 years, mainly using C++, Oracle, CORBA. 
+I have been developing software professionally for more than 15 years, mainly using C++, Oracle database, CORBA. 
 Most of the experience is related to banking software, windows desktop development. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript).  
 I try to improve my skills by reading, watching related videos, taking online courses.
 
