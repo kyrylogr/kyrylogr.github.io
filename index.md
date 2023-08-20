@@ -1,4 +1,4 @@
-# Kyrylo Gryshko, Software engineer (C++, desktop and distributed applications)
+# Kyrylo Gryshko, Software engineer (C++)
 
 ## Personal information
 Kyrylo Gryshko  
