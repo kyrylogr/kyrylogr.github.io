@@ -24,13 +24,14 @@ I try to improve my skills by reading, watching related videos, taking online co
 + C++ (up to C++ 17) 
     + compilers: Microsoft Visual Studio, gcc, C++ Builder
     + platforms: windows, linux
-    + libraries: stl, (some parts of) boost, gsoap, curl, catch (testing), VCL, MFC(in students years)
+    + libraries: stl, (some parts of) boost, Qt, gsoap, curl, catch (testing), VCL, MFC(in students years)
++ Python
 + tcl
 + SQL, Oracle pl/sql
 + Delphi
 
 **Some brief knowledge in other languages:**  
-python (pandas, numpy, matplotlib), octave (matlab), html, css, javascript, google apps script, java, C#
+octave (matlab), html, css, javascript, google apps script, C#, java
 
 **Technologies:**  
 CORBA (Visibroker, TAO, Orbix, Java), SOAP, Jupyter
@@ -57,6 +58,9 @@ I had the following roles:
 Independent contractor 2015-2019
 I have completed a number of successful projects including: Windows desktop GUI, calculation models (forecasting, trading simulation), migrations and consulting in the area of CORBA, small google apps script projects.
 
+Materialise 2019-present
+I take part in development of medical 3D planning software written in C++/qt and proprietary language. I work on business logic, portions of UI, application performance analysis and improvements, bugfixing. This project is about to have a second release (version 2.0).
+
 ## Work achievements and work sample description
 * I took part in development of successful core banking system, currently used by several Ukrainian banks
 * reusable UI components (C++ Builder, windows)
@@ -67,7 +71,8 @@ I have completed a number of successful projects including: Windows desktop GUI,
 * successful large legacy codebase migrations to free CORBA implementations (from Visibroker and ORBIX to TAO, C++)
 * integration (consuming) SOAP services from C++
 * internationalization of projects written in tcl, C++ Builder
-* crash dump analysis (windebug), memory leak detection, performance profiling
+* crash dump analysis (windebug), memory leak detection
+* performance profiling
 
 ## Courses / certifications
 
