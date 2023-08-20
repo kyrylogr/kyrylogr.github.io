@@ -62,7 +62,7 @@ Materialise 2019-present
 I take part in development of medical 3D planning software written in C++/qt and proprietary language. I work on business logic, portions of UI, application performance analysis and improvements, bugfixing. This project is about to have a second release (version 2.0).
 
 ## Work achievements and work sample description
-* I took part in development of successful core banking system, currently used by several Ukrainian banks
+* I took part in development of successful core banking system and reporting system/engine. The reporting system is currently used by several Ukrainian banks (including some from top 10)
 * reusable UI components (C++ Builder, windows)
 * Writing Oracle PL/SQL packages, stored procedures, query optimization
 * calculation models for forecasting and trading simulation (C++)
