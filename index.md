@@ -45,7 +45,7 @@ CORBA (Visibroker, TAO, Orbix, Java), SOAP, Jupyter
 + Microsoft SQL Server
 
 **Other:**  
-conan, basic cmake, windebug (crash dumps), GNU gettext (internationalization), git, Jira
+git, cmake, conan, windebug (crash dumps), Azure Devops, GNU gettext (internationalization), Jira
 
 ## Job history
 
