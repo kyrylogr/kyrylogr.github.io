@@ -16,7 +16,7 @@ Ukrainian, Russian, English (fluent), Spanish (basic level)
 ## Short bio
 I have relevant education, experience and passion in the area of software development.  
 I have been developing software professionally for more than 15 years, mainly using C++, Oracle database, CORBA. 
-Most of the experience is related to banking software, windows desktop development. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript).  
+Most of the experience is related to banking software, databases and windows desktop applications development. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript).  
 I try to improve my skills by reading, watching related videos, taking online courses.
 
 ## Programming languages and technologies
@@ -59,7 +59,7 @@ Independent contractor 2015-2019
 I have completed a number of successful projects including: Windows desktop GUI, calculation models (forecasting, trading simulation), migrations and consulting in the area of CORBA, small google apps script projects.
 
 Materialise 2019-present  
-I take part in development of medical 3D planning software written in C++/qt and proprietary language. I work on business logic, portions of UI, application performance analysis and improvements, bugfixing. This project is about to have a second release (version 2.0).
+I take part in development of medical 3D planning software written in C++/qt. I work on business logic, portions of UI, application performance analysis and improvements, bugfixing. This project is about to have a second release (version 2.0).
 
 ## Work achievements and work sample description
 * I took part in development of successful core banking system and reporting system/engine. The reporting system is currently used by several Ukrainian banks (including some from top 10)
