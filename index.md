@@ -24,7 +24,7 @@ I try to improve my skills by reading, watching related videos, taking online co
 + C++ (up to C++ 17) 
     + compilers: Microsoft Visual Studio, gcc, C++ Builder
     + platforms: windows, linux
-    + libraries: stl, (some parts of) boost, Qt, gsoap, curl, catch (testing), VCL, MFC(in students years)
+    + libraries: stl, (some parts of) boost, Qt, gsoap, curl, gtest, catch2 (unit testing), ITK (brief), VCL, MFC(in students years)
 + Python
 + tcl
 + SQL, Oracle pl/sql
