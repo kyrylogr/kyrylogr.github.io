@@ -72,14 +72,14 @@ I take part in development of medical 3D planning software written in C++/qt. I 
 * crash dump analysis (windebug), memory leak detection
 * performance profiling
 
-## Courses / certifications
+**Courses / certifications**  
 
 [Machine Learning, Coursera course by Stanford University, 2018](https://www.coursera.org/account/accomplishments/verify/8ZNMHYSU4UVV)
 
-## Code example links
+**Code example links**  
 
 [python, jupyter, pandas, matplotlib](https://github.com/kyrylogr/ansergy_reports/blob/master/ego/spread_percent_adj/New%20EGO%20application%20features%20august%202018.ipynb)
 
-# Other links
+## Other links
 [linkedin profile](https://www.linkedin.com/in/kyrylo-gryshko-552738117/)  
 [online resume](https://kyrylogr.github.io/)
