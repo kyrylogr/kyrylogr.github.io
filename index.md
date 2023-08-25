@@ -6,8 +6,7 @@ Currently I live in Kyiv, Ukraine
 
 ## Education
 1995-2001 National Technical University of Ukraine 'Kyiv Polytechnic Institute'  
-Applied Mathematics Department  
-Engineer's degree, diploma with honors  
+Applied Mathematics Department: engineer's degree, diploma with honors  
 
 ## Languages
 Ukrainian, Russian, English (fluent), Spanish (basic level)
