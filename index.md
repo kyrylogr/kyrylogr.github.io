@@ -1,7 +1,6 @@
 # Kyrylo Gryshko, Software engineer (C++)
 
 ## Personal information
-Kyrylo Gryshko  
 Born 1978, Ukraine  
 Currently I live in Kyiv, Ukraine  
 
@@ -15,7 +14,7 @@ Ukrainian, Russian, English (fluent), Spanish (basic level)
 
 ## Short bio
 I have relevant education, experience and passion in the area of software development.  
-I have been developing software professionally for more than 15 years, mainly using C++, Oracle database, CORBA. 
+I have been developing software professionally for more than 15. 
 Most of the experience is related to banking software, databases and windows desktop applications development. I also did dozen of successful smaller projects / migrations using C++ and other languages (tcl, html, javascript).  
 I try to improve my skills by reading, watching related videos, taking online courses.
 
