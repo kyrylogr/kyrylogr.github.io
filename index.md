@@ -57,7 +57,7 @@ I had the following roles:
 I have completed a number of successful projects including: Windows desktop GUI, calculation models (forecasting, trading simulation), migrations and consulting in the area of CORBA, small google apps script projects.
 
 **Materialise 2019-present**  
-I take part in development of medical 3D planning software written in C++/qt. I work on business logic, portions of UI, application performance analysis and improvements, bugfixing. This project is about to have a second release (version 2.0).
+I take part in development of medical 3D planning software written in C++/qt. I work on business logic, portions of UI, application performance analysis and improvements, bugfixing. This project had successful second release (version 2.0) in autumn 2023.
 
 ## Work achievements and work sample description
 * I took part in development of successful core banking system and reporting system/engine. The reporting system is currently used by several Ukrainian banks (including some from top 10)
